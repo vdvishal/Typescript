@@ -38,3 +38,4 @@ var newUser = new Profile("Mr. Ray", "Tez Nagar", "Graduate", undefined, undefin
 console.log(newUser.getName());
 console.log(newUser.getAge());
 console.log(newUser.getBirthday());
+console.log(newUser.getEducation());
